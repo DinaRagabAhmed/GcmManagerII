@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "705842485316",
+    "firebase_url": "https://gcmmanager-8e371.firebaseio.com",
+    "project_id": "gcmmanager-8e371",
+    "storage_bucket": "gcmmanager-8e371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705842485316:android:5da8e4e91fa18b4e",
+        "android_client_info": {
+          "package_name": "com.iti.gcmmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705842485316-2qraajrnvpiajp3id9uriln63iqsug0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFyfX7S861xpRhmhMcb4cTMGpMHNtMR4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
